@@ -1,0 +1,6 @@
+
+h5py
+keras
+python-nest
+numpy
+schedule
